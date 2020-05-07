@@ -1378,7 +1378,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [lazy-void's Solution](https://github.com/lazy-void/rock-paper-scissors) - [View in Browser](https://lazy-void.github.io/rock-paper-scissors/)
 - [mtthwmths's Solution](https://github.com/mtthwmths/odin-project/tree/master/javascript-basics/rock-paper-scissors-project) - [View in Browser](https://mtthwmths.github.io/odin-project/javascript-basics/rock-paper-scissors-project/rock-paper-scissors.html)
 - [akoenig1's Solution](https://github.com/akoenig1/rock_paper_scissors) - [View in Browser](https://akoenig1.github.io/rock_paper_scissors/)
-- [Codinglinga's Solution](https://github.com/Codinglinga/rock-paper-scissors)
+- [Daniel-Gaivoronski's Solution](https://github.com/Daniel-Gaivoronski/rock-paper-scissors) - [View in Browser](https://daniel-gaivoronski.github.io/rock-paper-scissors/)
 - [elram's Solution](https://github.com/erampono/scissors-paper-rock) - [View in Browser](https://erampono.github.io/scissors-paper-rock/)
 - [0xtaf's Solution](https://github.com/0xtaf/rock-paper-scissors) - [View in Browser](https://0xtaf.github.io/rock-paper-scissors/)
 - [Tori's Solution](https://github.com/ToriPotts/rock-paper-scissors/) - [View in Browser](https://toripotts.github.io/rock-paper-scissors/)
